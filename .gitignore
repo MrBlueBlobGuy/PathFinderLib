@@ -1,4 +1,6 @@
 venv/
 tests/
 *.pyc
-
+dist/
+*.txt
+PKG-INFO
