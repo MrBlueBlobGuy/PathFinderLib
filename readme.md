@@ -3,4 +3,4 @@
 
 ## Installation
 ---
-To install the library run command ```pip install pathfinderlib```
+To install the library run command ```pip install pathfinderlib \n```
