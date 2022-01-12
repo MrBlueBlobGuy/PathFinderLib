@@ -1,0 +1,3 @@
+[submodule "ursina"]
+	path = ursina
+	url = https://github.com/pokepetter/ursina.git

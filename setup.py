@@ -6,5 +6,6 @@ setup(
     version='0.1.0',
     description='A package to implement Pathfinding into your games',
     author='Me', 
+    install_requires = ['ursina'],
     license='MIT'
 )
