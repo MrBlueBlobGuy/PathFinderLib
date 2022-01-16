@@ -1,0 +1,17 @@
+/*This File Has The rules to be followed globaly across all pages*/
+@import 'fonts.css';
+
+body{
+    background-color: black;
+}
+
+.Packname{
+    font-size: 500%;
+    font-family: 'Roboto', Sans Serif;
+    text-align: center;
+    color: wheat;
+    padding: 10%;
+}
+.DocButton{
+    padding: 10px;
+}
